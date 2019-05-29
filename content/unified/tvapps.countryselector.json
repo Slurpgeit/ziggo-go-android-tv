@@ -1,10 +1,10 @@
 {
 	"countries":[
 		{
-			"name":"Czech Republic",
-			"code": "CZ",
-			"languages": ["cz"],
-			"enabled": false
+			"name":"Netherlands",
+			"code": "NL",
+			"languages": ["nl","en"],
+			"enabled": true
 		},
 		{
 			"name":"Hungary",
@@ -28,12 +28,6 @@
 			"name":"Slovakia",
 			"code": "SK",
 			"languages": ["sk","en_SK"],
-			"enabled": true
-		},
-    {
-			"name":"Netherlands",
-			"code": "NL",
-			"languages": ["nl","en"],
 			"enabled": true
 		}
     ]
