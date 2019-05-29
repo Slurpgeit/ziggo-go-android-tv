@@ -1,0 +1,40 @@
+{
+	"countries":[
+		{
+			"name":"Czech Republic",
+			"code": "CZ",
+			"languages": ["cz"],
+			"enabled": false
+		},
+		{
+			"name":"Hungary",
+			"code": "HU",
+			"languages": ["hu","en"],
+			"enabled": false
+		},
+        {
+			"name":"Poland",
+			"code": "PL",
+			"languages": ["pl"],
+			"enabled": true
+		},
+		{
+			"name":"Romania",
+			"code": "RO",
+			"languages": ["ro","hu","en"],
+			"enabled": false
+		},
+		{
+			"name":"Slovakia",
+			"code": "SK",
+			"languages": ["sk","en_SK"],
+			"enabled": true
+		},
+    {
+			"name":"Netherlands",
+			"code": "NL",
+			"languages": ["nl","en"],
+			"enabled": true
+		}
+    ]
+}
